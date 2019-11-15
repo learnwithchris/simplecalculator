@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/simplecalculator/static/css/main.2a7c4b77.chunk.css",
+    "main.js": "/simplecalculator/static/js/main.85a0c9ec.chunk.js",
+    "main.js.map": "/simplecalculator/static/js/main.85a0c9ec.chunk.js.map",
+    "runtime-main.js": "/simplecalculator/static/js/runtime-main.a5c8806d.js",
+    "runtime-main.js.map": "/simplecalculator/static/js/runtime-main.a5c8806d.js.map",
+    "static/js/2.0edbd314.chunk.js": "/simplecalculator/static/js/2.0edbd314.chunk.js",
+    "static/js/2.0edbd314.chunk.js.map": "/simplecalculator/static/js/2.0edbd314.chunk.js.map",
+    "index.html": "/simplecalculator/index.html",
+    "precache-manifest.075b9fde4579193af7bc697568af8181.js": "/simplecalculator/precache-manifest.075b9fde4579193af7bc697568af8181.js",
+    "service-worker.js": "/simplecalculator/service-worker.js",
+    "static/css/main.2a7c4b77.chunk.css.map": "/simplecalculator/static/css/main.2a7c4b77.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5c8806d.js",
+    "static/js/2.0edbd314.chunk.js",
+    "static/css/main.2a7c4b77.chunk.css",
+    "static/js/main.85a0c9ec.chunk.js"
+  ]
+}
